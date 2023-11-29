@@ -1,0 +1,4 @@
+*cache*
+venv
+db.sqlite3
+.env
